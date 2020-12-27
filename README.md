@@ -3,8 +3,8 @@
 ### Hi there 👋 I'm Hoseong You
 
 #### __✨ Information__
-##### * I’m currently studying at CAU 🔭
-##### * How to reach me: h0song@naver.com 📫
+###### * I’m currently studying at CAU 🔭
+###### * How to reach me: h0song@naver.com 📫
 
 <!--
 **Youhoseong/Youhoseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### :four_leaf_clover: Summary
+#### __:four_leaf_clover: Summary__
 
 |    Type   | Date    | Contents                       | Organization         |
 |:---------:|---------|--------------------------------|----------------------|
 | Education | 2017.3~ | Computer Science & Engineering | Chung-Ang University |
 
-#### :bar_chart: Statistic
+#### __:bar_chart: Statistic__
 
 ![Youhoseong's github stats](https://github-readme-stats.vercel.app/api?username=Youhoseong&show_icons=true)
