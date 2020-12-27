@@ -2,9 +2,9 @@
 
 ### Hi there 👋 I'm Hoseong You
 
-#### ✨ Information
-#### * I’m currently studying at CAU 🔭
-#### * How to reach me: h0song@naver.com 📫
+#### __✨ Information__
+##### * I’m currently studying at CAU 🔭
+##### * How to reach me: h0song@naver.com 📫
 
 <!--
 **Youhoseong/Youhoseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
