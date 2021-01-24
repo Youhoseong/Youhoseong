@@ -5,7 +5,7 @@
 #### __✨ Information__
 ###### * I’m currently studying at CAU 🔭
 ###### * How to reach me: h0song@naver.com 📫
-###### * Java / C++ / C / Python /
+###### * Java / C++ / C / Python Django
 <!--
 **Youhoseong/Youhoseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
