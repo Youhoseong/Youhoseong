@@ -1,8 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYouhoseong&count_bg=%233D23BE&title_bg=%23DB1A1A&icon=&icon_color=%23D10202&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-###### * How to reach me: h0song@naver.com 📫
-###### * Language : Java / C++ / C / Python
-###### * FrameWork : Django
+    - How to reach me: h0song@naver.com 📫
+    - Language : Java / C++ / C / Python
+    - FrameWork : Django
 <!--
 **Youhoseong/Youhoseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
