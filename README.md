@@ -2,7 +2,7 @@
 
     - How to reach me: h0song@naver.com 📫
     - Language : Java / C++ / C / Python
-    - FrameWork : Django
+    - FrameWork : Django SpringBoot
 <!--
 **Youhoseong/Youhoseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
